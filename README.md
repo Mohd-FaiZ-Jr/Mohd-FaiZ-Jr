@@ -1,5 +1,5 @@
-# Hi! I'm Mohammad Faiz👋
-A passionate developer with curiosity of enguinity in various programming languages and technologies. I love creating efficient and scalable solutions, and I’m always eager to learn new things and take on challenging projects.
+# Hi There!👋
+I'm Mohammad Faiz, a passionate developer with curiosity of enguinity in various programming languages and technologies. I love creating efficient and scalable solutions, and I’m always eager to learn new things and take on challenging projects.
 
 <br>
 
