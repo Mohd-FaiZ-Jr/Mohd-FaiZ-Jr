@@ -22,9 +22,8 @@ I specialize in building and optimizing applications, whether it’s through fro
 - **Technologies and Tools:**
   - MySQL
   - Git & GitHub
-  - Spring Boot
-  - REST APIs
   - Bootstrap
+  - InkScape
 
 <br>
 
