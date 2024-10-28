@@ -1,57 +1,39 @@
-# Hi There!👋
-I'm Mohammad Faiz, a passionate developer with curiosity of enguinity in various programming languages and technologies. I love creating efficient and scalable solutions, and I’m always eager to learn new things and take on challenging projects.
+# Hi there, I'm Mohammad Faiz 👋
 
-<br>
+I’m a passionate **Front-End Developer** and **Web Designer** with a keen interest in expanding my skills across full-stack development. As an aspiring **Software Development Engineer (SDE)**, I’m actively involved in **open-source contributions**, where I learn, collaborate, and contribute to community-driven projects. 
 
-## About Me 🌟
+I believe in continuous learning and “keeping the grind,” always striving to improve my knowledge and skills in web development and software engineering.
 
-I specialize in building and optimizing applications, whether it’s through front-end development, back-end logic, or database management. With a strong foundation in both web development and software engineering, I aim to deliver high-quality code and seamless user experiences.
 
-<br>
+---
 
-## Languages and Technologies 💻
+### 📊 GitHub Stats
+![Faiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mohd-FaiZ-Jr&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohd-FaiZ-Jr&layout=compact&theme=radical)
 
-- **Programming Languages:**
-  - Python 🐍
-  - Java ☕
-  - JavaScript 🛠️
-  - HTML 🌐
-  - CSS 🎨
-  - SQL 🗄️
+---
 
-- **Technologies and Tools:**
-  - MySQL
-  - Git & GitHub
-  - Bootstrap
-  - InkScape
+### 🔧 Technologies & Languages
 
-<br>
+Here are some of the tools and languages I work with:
 
-## Projects 🚀
+- **Languages**: 
+  - ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python&logoColor=ffdd54)
+  - ![HTML](https://img.shields.io/badge/-HTML-333?style=flat&logo=html5)
+  - ![CSS](https://img.shields.io/badge/-CSS-333?style=flat&logo=css3&logoColor=264de4)
+  - ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+  - ![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
+  - ![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql&logoColor=white)
 
-Here are some of my noteworthy projects:
-
-### 1. WhatsApp Message Scheduler
-**Description:** This project allows you to schedule WhatsApp messages using Python and provides a GUI interface built with Tkinter. 
-The scheduler leverages the pywhatkit library to send messages at specified times. 📱
-
-**Technologies Used:** Python, MySQL
-
-Feel free to explore these projects and provide feedback or contributions!
-
-<br>
-
-## Get in Touch 📬
-
-I'm always open to collaboration, discussion, and new opportunities. Let's connect!
-
-- **Email:** mohdfaizofficial487@gmail.com
-- **LinkedIn:** www.linkedin.com/in/mohammad-faiz-developer
-
-<br>
+- **Technologies & Frameworks**:
+  - ![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
+  - ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333?style=flat&logo=bootstrap)
+  - ![Firebase](https://img.shields.io/badge/-Firebase-333?style=flat&logo=firebase)
+  - ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
+  - ![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
+  
+---
 
 ## Contributions and Feedback 🙌
 
 I appreciate feedback and contributions. If you have any suggestions or issues, feel free to open an issue or submit a pull request on any of my repositories. Your input helps me grow and improve.
-
-Thank you for visiting my profile! Have a great day! 😊
