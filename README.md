@@ -1,59 +1,79 @@
-# Hi there, I'm Mohammad Faiz 👋
+<div align="center">
 
-I’m a passionate **Front-End Developer** and **Web Designer** with a keen interest in expanding my skills across full-stack development. As an aspiring **Software Development Engineer (SDE)**, I’m actively involved in **open-source contributions**, where I learn, collaborate, and contribute to community-driven projects. 
+  <img src="snow.gif" width="100%" />
 
-I believe in continuous learning and “keeping the grind,” always striving to improve my knowledge and skills in web development and software engineering.
+  <h1 style="color: #a259ff;">Hi there 👋 I'm Mohammad Faiz</h1>
 
-## GSSOC(24) Badges 🪶
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard?year=2024Extd&username=Mohd-FaiZ-Jr">
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A259FF&center=true&vCenter=true&width=500&lines=Front-End+Developer+%26+Designer;Aspiring+Software+Engineer;Open+Source+Contributor;Always+Learning+New+Tech!" alt="Typing SVG" />
+
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+### 🧑‍💻 About Me
 
-<br />
+I’m a dedicated **Front-End Developer** and **Web Designer**, actively exploring full-stack development. As an aspiring **SDE**, I build sleek UIs, collaborate on open-source projects, and love learning modern tech.
 
-<table width="100%" align="center">
-<tr>
-<td>
-  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=Mohd-FaiZ-Jr&show_icons=true&locale=en&theme=ambient_gradient" alt="GitHub Stats"/>
-</td>
-<td>
-  <img width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohd-FaiZ-Jr&theme=ambient_gradient" alt="Streak Stats"/>
-</td>
-</tr>
+🔭 **Currently working on:**
+- Enhancing the **MenuMate** web app
+- Collaborating in **GSSoC '24**
+- Diving deep into **MERN Stack**
+
+💡 **Fun facts:**
+- Passionate about UI/UX & accessibility
+- Love building for real-world use cases
+- I believe in *keeping the grind* 💪
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,python,java,mysql,firebase,git,github,vscode&theme=light" />
+</div>
+
+---
+
+### 🏅 GSSOC(24) Badges
+
+<div align="center">
+  <a href="https://gssoc.girlscript.tech/leaderboard?year=2024Extd&username=Mohd-FaiZ-Jr">
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="70px" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="70px" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="70px" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="70px" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="70px" />
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="70px" />
+  </a>
+</div>
+
+---
+
+### 📈 GitHub Stats
+
+<table align="center" style="border: none;">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Mohd-FaiZ-Jr&show_icons=true&theme=radical&border_radius=10" width="420" alt="GitHub Stats"/>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=Mohd-FaiZ-Jr&theme=radical&border_radius=10" width="420" alt="GitHub Streak"/>
+    </td>
+  </tr>
 </table>
 
 ---
 
+### 📫 Contact Me
 
-### 🔧 Technologies & Languages
-
-
-
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-%232C5F67?style=for-the-badge&logo=python&logoColor=%23FFD343" alt="Python">
-  <img src="https://img.shields.io/badge/HTML-%23FF5733?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-  <img src="https://img.shields.io/badge/CSS-%23275FC5?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-  <img src="https://img.shields.io/badge/JavaScript-%23F0DB4F?style=for-the-badge&logo=javascript&logoColor=%23000000" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Java-%23D32F2F?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"><br>
-  <img src="https://img.shields.io/badge/React-%2320232A?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Bootstrap-%23563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-  <img src="https://img.shields.io/badge/Firebase-%23F57C00?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase">
-  <img src="https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-</p>
-
----
-
-## Contributions and Feedback 🙌
-
-I appreciate feedback and contributions. If you have any suggestions or issues, feel free to open an issue or submit a pull request on any of my repositories. Your input helps me grow and improve.
+<div align="center">
+  <a href="mailto:mohdfaizjr@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/mohd-faiz-jr/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/mohdfaizjr">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</div>
